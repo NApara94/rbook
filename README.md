@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 Learning statistics with R
@@ -19,3 +20,6 @@ Docs
 ----
 
 GitHub pages deploys the site from the `docs` directory; to publish an updated version of the bookdown version to <https://learningstatisticswithr.com> just copy the entire contents of `bookdown/_book` to `docs/book`, and push to GitHub.
+=======
+# rbook
+>>>>>>> c2fb448f896c2a9ba382cca23b5d73390dc58608
